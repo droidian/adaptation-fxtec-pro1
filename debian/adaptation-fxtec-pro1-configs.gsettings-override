@@ -1,0 +1,2 @@
+[org.adishatz.Mps]
+devfreq-blacklist = ['1da4000.ufshc']
