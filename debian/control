@@ -11,6 +11,7 @@ Package: adaptation-fxtec-pro1
 Architecture: all
 Depends: ${misc:Depends},
          lxc-android (>= 1:9),
+         mobile-power-saver,
          linux-bootimage-fxtec-pro1,
          adaptation-hybris-api28-phone,
          adaptation-fxtec-pro1-configs,
