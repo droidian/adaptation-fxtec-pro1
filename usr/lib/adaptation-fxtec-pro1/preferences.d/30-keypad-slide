@@ -7,7 +7,7 @@ Pin: release l=Droidian\ (droidian-libinput-next-upgrade-1-26-0-keypad-slide\ ch
 Pin-Priority: 1003
 
 Package: phoc phoc-dbgsym
-Pin: release l=Droidian\ (droidian-phoc-next-upgrade-0.40.0-forward-switch-events\ channel)
+Pin: release l=Droidian\ (droidian-phoc-next-upgrade-0-40-0-forward-switch-events\ channel)
 Pin-Priority: 1003
 
 Package: phosh phosh-mobile-tweaks phosh-dbgsym phosh-plugins
