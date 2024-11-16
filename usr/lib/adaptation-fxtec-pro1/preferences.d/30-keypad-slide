@@ -1,4 +1,4 @@
-Package: libinput-bin
+Package: libinput-bin libinput-tools
 Pin: release l=Droidian\ (droidian-libinput-next-upgrade-1-26-0-keypad-slide\ channel)
 Pin-Priority: 1003
 
@@ -7,9 +7,9 @@ Pin: release l=Droidian\ (droidian-libinput-next-upgrade-1-26-0-keypad-slide\ ch
 Pin-Priority: 1003
 
 Package: phoc phoc-dbgsym
-Pin: release l=Droidian\ (droidian-phoc-next-upgrade-0-40-0-forward-switch-events\ channel)
+Pin: release l=Droidian\ (droidian-phoc-next-droidian-100-forward-switch-events\ channel)
 Pin-Priority: 1003
 
 Package: phosh phosh-mobile-tweaks phosh-dbgsym phosh-plugins
-Pin: release l=Droidian\ (droidian-phosh-next-upgrade-0-41-0-keypad-slide-lights\ channel)
+Pin: release l=Droidian\ (droidian-phosh-next-droidian-100-keypad-slide-lights\ channel)
 Pin-Priority: 1003
