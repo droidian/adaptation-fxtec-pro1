@@ -1,9 +1,5 @@
-/etc/apt/sources.list.d
-/etc/apt/preferences.d
+/etc/apt/apt.conf.d
 /etc/udev/rules.d
 /etc/modules-load.d
 /etc/gst-droid
-/etc/package-sideload-create.d
-/usr/lib/adaptation-fxtec-pro1/preferences
-/usr/lib/adaptation-fxtec-pro1/sources
 /usr/lib/adaptation-fxtec-pro1/diversions

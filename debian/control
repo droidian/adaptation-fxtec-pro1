@@ -22,4 +22,5 @@ Package: adaptation-fxtec-pro1-configs
 Architecture: all
 Pre-Depends: droidian-encryption-service
 Depends: ${misc:Depends},
+         apt-transport-droidian (>= 1.1.0),
 Description: f(x)tec Pro1's specific adaptation configs

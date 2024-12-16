@@ -1,0 +1,2 @@
+# Set the fxtec Droidian variant (Droidian 101+)
+Acquire::Droidian::Variant "fxtec";
